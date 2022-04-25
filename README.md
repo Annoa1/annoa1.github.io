@@ -7,5 +7,5 @@ function cb(response) {
 </script>
 <script async src="https://api.countapi.xyz/hit/annoa1.github.io//visits?callback=cb"></script>
 
-Test : <div id="visits">...</div>
+<div>Test <span id="visits">...</span></div>
 
